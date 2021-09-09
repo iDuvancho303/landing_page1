@@ -1,8 +1,14 @@
 header {
-   position: absolute;
+   top: 0px;
+   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: whitesmoke;
+  opacity: 0.7;
+   
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 500px){
     body {
     flex-wrap: wrap;
     }
