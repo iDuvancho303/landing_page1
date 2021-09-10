@@ -31,11 +31,42 @@ background-color:#24252a;
 }
 
 
-#nav-link {
-    color: tomato !important;
 
-}
+
+
 
 #videointro, h3 {
-    color: blanchedalmond;
+    color: gray;
 }
+
+#question {
+    display: block;
+    width: 500px;
+    height: 2.0rem;
+    padding: 0.20rem 0.75rem;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+#email {
+    display: block;
+    width: 500px;
+    height: 2.0rem;
+    padding: 0.20rem 0.75rem;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+#submit {
+    color: white;
+    background-color: #24252a;
+    width: 500px;
+    padding: 10px 5px;
+    border-radius: 5px; 
+    cursor: pointer;
