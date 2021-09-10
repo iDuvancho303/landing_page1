@@ -70,3 +70,8 @@ background-color:#24252a;
     padding: 10px 5px;
     border-radius: 5px; 
     cursor: pointer;
+}
+
+#portfolio {
+    text-align: center;
+}
