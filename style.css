@@ -30,18 +30,20 @@ background-color:#24252a;
     border: 2px solid whitesmoke;
 }
 
-
-
-
-
-
-#videointro, h3 {
-    color:black;
-    text-align: center;
+#question {
+    display: block;
+    width: 500px;
+    height: 2.0rem;
+    padding: 0.20rem 0.75rem;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    background-color: white;
     font-family: "Montserrat", sans-serif;
+    
 }
 
-#question {
+#email {
     display: block;
     width: 500px;
     height: 2.0rem;
@@ -53,7 +55,19 @@ background-color:#24252a;
     font-family: "Montserrat", sans-serif;
 }
 
-#email {
+#name {
+    display: block;
+    width: 500px;
+    height: 2.0rem;
+    padding: 0.20rem 0.75rem;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+#last {
     display: block;
     width: 500px;
     height: 2.0rem;
@@ -95,5 +109,24 @@ p {
     color: #24252a; 
     font-size: 16px;
     font-weight: bold;
-     
 }
+
+#videointro {
+    text-align: left;
+    padding: 60px 20px;
+}
+
+#form {
+    width: 500px;
+    margin: auto;
+    padding-top: 40px;
+  
+}
+
+#contact h3 {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+}
+
+
