@@ -71,12 +71,19 @@ background-color:#24252a;
     border-radius: 5px; 
     cursor: pointer;
 }
-
-#portfolio {
-    text-align: center;
-}
-
 .icons {
     float: left;
     width: 33.33%;
+    padding: 3px;
+    
+}
+
+.icons img {
+    height: 200px;
+    
+    
+}
+
+.container1 {
+    text-align: center;
 }
