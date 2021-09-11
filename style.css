@@ -75,3 +75,8 @@ background-color:#24252a;
 #portfolio {
     text-align: center;
 }
+
+.icons {
+    float: left;
+    width: 33.33%;
+}
